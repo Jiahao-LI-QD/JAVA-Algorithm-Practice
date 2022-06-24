@@ -1,0 +1,21 @@
+5 10 15 20 25 30 35 40 45 50 
+Exhaustive: YES 50
+Recursive : YES 50
+Exhaustive: YES 60
+Recursive : YES 60
+Exhaustive: YES 30
+Recursive : YES 30
+Exhaustive: YES 90
+Recursive : YES 90
+Exhaustive: YES 95
+Recursive : YES 95
+Exhaustive: NO 23
+Recursive : NO 23
+Exhaustive: NO 53
+Recursive : NO 53
+Exhaustive: NO 63
+Recursive : NO 63
+Exhaustive: NO 3
+Recursive : NO 3
+Exhaustive: NO 100
+Recursive : NO 100
